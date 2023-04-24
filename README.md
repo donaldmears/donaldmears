@@ -6,7 +6,7 @@ My very best work is provided for my employer and therefore I've decided to shar
 ### 📫 Connect with me:
 🏢 [LinkedIn](https://www.linkedin.com/donaldmears1/)
 
-<a href="[placeholder.com](https://www.linkedin.com/donaldmears1/)" target="_blank">Opens in new tab</a>
+<a href="[placeholder.com](https://www.linkedin.com/donaldmears1/)" target="_blank">LinkedIn</a>
 
 <!--
 **donaldmears/donaldmears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
