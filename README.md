@@ -4,7 +4,9 @@ As a highly experienced strategist with a strong background in operations analys
 My very best work is provided for my employer and therefore I've decided to share some "on-the-side curiosity" work I've done in the hope it may be helpful in some way.
 
 ### 📫 Connect with me:
-🏢 [LinkedIn](https://www.linkedin.com/in/donaldmears1/)
+🏢 [LinkedIn](https://www.linkedin.com/donaldmears1/)
+
+<a href="[placeholder.com](https://www.linkedin.com/donaldmears1/)" target="_blank">Opens in new tab</a>
 
 <!--
 **donaldmears/donaldmears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
