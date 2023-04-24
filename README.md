@@ -7,7 +7,7 @@ My very best work is provided for my employer and therefore I've decided to shar
 🏢 [LinkedIn](https://www.linkedin.com/donaldmears1/)
 
 	
-<a href="http://example.com" target="_blank" rel="noopener">Link</a>
+<a href="https://www.linkedin.com/donaldmears1/" target="_blank" rel="noopener">Link</a>
 
 <!--
 **donaldmears/donaldmears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
