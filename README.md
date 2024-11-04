@@ -1,7 +1,13 @@
 ## Hi, I'm Donald Mears 👋
-As a seasoned strategist with extensive experience in operations analysis and reporting, I've led teams and driven improvement initiatives at Delta Air Lines for over two decades. In my most recent role at Delta Community Credit Union, I provide insightful recommendations to support critical business decisions as the leader of the enterprise strategy team. My expertise lies in quantitative analysis, market studies, and financial modeling, which enables me to generate actionable insights from complex data sets.
+Leveraging a strong foundation in data analysis, financial modeling, and strategic thinking, I'm passionate about driving business growth and operational efficiency. With a proven track record in translating complex data into actionable insights, I've successfully supported strategic initiatives and operational improvements for leading organizations like Delta Air Lines and Delta Community Credit Union.
 
-Beyond my technical skills, I have a deep passion for data science and analytics. I find the process of transforming data into meaningful insights incredibly rewarding, especially when it involves wrangling and cleaning large data sets to create a solid foundation for analysis. Exploratory data analysis is another area I enjoy, as it helps me uncover complex relationships and patterns using statistical techniques and visualizations. When it comes to building models, I'm always eager to explore new algorithms and techniques to improve accuracy and efficiency. Whether it's a classification problem or regression task, I approach each challenge with curiosity and a commitment to delivering exceptional results.
+Core Competencies:
+• Data Analysis & Visualization: Proficiency in SQL, Python, and Tableau to extract, clean, analyze, and visualize data.
+• Financial Modeling: Developing and optimizing financial models to inform decision-making and forecasting.
+• Strategic Planning: Collaborating with cross-functional teams to identify opportunities, assess risks, and develop strategic roadmaps.
+• Operational Excellence: Streamlining processes, improving efficiency, and driving continuous improvement.
+• Problem-Solving: A strong analytical mindset to identify root causes and develop innovative solutions.
+• Communication: Effectively communicating complex technical concepts to both technical and non-technical audiences.
 
 I have a lot of work experience that I've provided to my employers, and I'm now sharing some of my personal projects in the hopes that they may be helpful in some way.
 
